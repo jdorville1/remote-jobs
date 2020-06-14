@@ -394,18 +394,11 @@ Name | Website | Region
 [Transloadit](/company-profiles/transloadit.md) | https://transloadit.com/ | Worldwide
 [Travis CI](/company-profiles/travis-ci.md) ⚠️️ | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
-[Trello](/company-profiles/trello.md) | https://trello.com/ |
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | United States
-[Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | United States
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
-[Udacity](/company-profiles/udacity.md) | https://www.udacity.com/ | Worldwide
-[UpTrending](/company-profiles/uptrending.md) ⚠️️ | http://uptrending.com |
-[Upwork Pro](/company-profiles/upwork-pro.md) ⚠️️ | https://www.upwork.com |
-[Upworthy](/company-profiles/upworthy.md) ⚠️️ | https://www.upworthy.com/ | Worldwide (U.S. Timezone)
 [Ushahidi](/company-profiles/ushahidi.md) | https://www.ushahidi.com | Worldwide
 [Varnish Software](/company-profiles/varnish-software.md) ⚠️️ | https://www.varnish-software.com/about-us | Worldwide
 [Vox Media (Product Team)](/company-profiles/vox-media.md) ⚠️️ | http://www.voxmedia.com/ |
-[WalletHub](/company-profiles/wallethub.md) | https://wallethub.com/jobs/ |
 [WebDevStudios](/company-profiles/webdevstudios.md) | https://webdevstudios.com/ |
 [WebFX](/company-profiles/webfx.md) | https://www.webfx.com | Worldwide
 [Webikon](/company-profiles/webikon.md) | http://www.webikon.sk/en/ | Worldwide
@@ -420,7 +413,5 @@ Name | Website | Region
 [Wombat Security Technologies](/company-profiles/wombat-security.md) | https://www.wombatsecurity.com/ | USA
 [X-Team](/company-profiles/x-team.md) | http://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/en/ | Worldwide
-[Yonder](/company-profiles/yonder.md) ⚠️️ | https://www.yonder.io | Worldwide
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
-[Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile

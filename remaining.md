@@ -262,9 +262,7 @@ Name | Website | Region
 [New Context](/company-profiles/new-context.md) | https://www.newcontext.com/ | US
 [NEXT](/company-profiles/next.md) | https://www.nexttrucking.com/ | US
 [Next Big Sound](/company-profiles/next-big-sound.md) ⚠️️ | https://www.nextbigsound.com/ |
-[NodeSource](/company-profiles/nodesource.md) | https://nodesource.com/ | Worldwide
 [NoRedInk](/company-profiles/noredink.md) | https://noredink.com | UTC-8 to UTC+1
-[Novoda](/company-profiles/novoda.md) | https://www.novoda.com/ | UK & Europe
 [npm](/company-profiles/npm.md) ⚠️️ | https://www.npmjs.com/ |
 [Nuna](/company-profiles/nuna.md) | https://www.nuna.com/ | US
 [O'Reilly Media](/company-profiles/oreilly-media.md) ⚠️ | http://www.oreilly.com/ |
